@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417004947307",
+    "project_id": "hermes-6a65d",
+    "storage_bucket": "hermes-6a65d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417004947307:android:dc835691dd1ecaf4166e2e",
+        "android_client_info": {
+          "package_name": "com.example.projecthermes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417004947307-j0vdlmjpdqp1hprc6u9908mnae06jen5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1TF7NBQd93z05Llu6YD7B1uxiomPEQ9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417004947307-j0vdlmjpdqp1hprc6u9908mnae06jen5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
